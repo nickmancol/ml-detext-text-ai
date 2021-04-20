@@ -1,0 +1,8 @@
+aiohttp
+jupyterlab
+mlbox
+nest_asyncio
+nltk
+pandas
+requests
+scikit-learn
